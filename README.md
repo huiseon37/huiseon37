@@ -1,4 +1,4 @@
-# Hello Everyone!:raised_hands:
+## Hello Everyone!:raised_hands:
 
 * Name : Huiseon Jeon
 * Age : 23

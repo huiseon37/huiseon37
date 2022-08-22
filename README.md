@@ -1,7 +1,7 @@
 ## Hello Everyone!:raised_hands:
 
 * Name : Huiseon Jeon
-* Age : 23
+* Age : 24
 * Univ : Sookmyung Women's University
 * Major : Software Convergence
 

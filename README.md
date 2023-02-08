@@ -1,10 +1,8 @@
 ## 함께 성장하는 개발자 전희선 입니다!:raised_hands:
 
-* Name : Huiseon Jeon
-* Age : 25
-* Univ : Sookmyung Women's University
-* Major : Software Convergence
-* Email : huiseon37@gmail.com
+🎓 Univ : Sookmyung Women's University<br>
+📚 Major : Software Convergence<br>
+📩 Email : huiseon37@gmail.com
 
 
 ## Tech Stack

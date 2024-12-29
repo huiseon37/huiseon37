@@ -22,14 +22,21 @@
 </span>
 
 ## Activities
-- **[2021.03-2021.07]** KUSITM 23th
-- **[2021.09-2022.07]** SOPT 29th, 30th WEB Part
+- **[2024.08-2024.12]** Naver Boost Camp Web/Mobile Membership 9th
 - **[2022.09-2023.01]** SOPT 21th SERVER part
+- **[2021.09-2022.07]** SOPT 29th, 30th WEB Part
+- **[2021.03-2021.07]** KUSITM 23th
 
 ## Projects
+### BE
+- **[JustPay]** 아이돌 굿즈 최고가 매칭 서비스
+- **[Cam'On]** 부스트 캠프 캠퍼를 위한 코어타임용 실시간 스트리밍 커뮤니티 서비스
+  
+### FE
 - **[소담]** 서울시 소품샵 정보를 쉽고 편하게 제공받을수 있는 서비스 <!-- [👉Link](https://sodam.me/) -->
 - **[Drag Me]** 드래그 기반으로 쉬운 일정관리를 제공해주는 서비스 
 - **[청춘식탁]** 시니어 세대와 주니어 세대가 요리법을 공유하며 세대간 소통을 제공하는 서비스
+
 <!-- 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiseon37&&show_icons=true&theme=dracula)

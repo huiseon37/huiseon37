@@ -1,4 +1,4 @@
-## 함께 성장하는 개발자 전희선 입니다! :raised_hands:
+## 전희선
 
 🎓 Univ : Sookmyung Women's University<br>
 📚 Major : Software Convergence<br>
